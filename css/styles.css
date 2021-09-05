@@ -16,6 +16,10 @@ body {
     margin: auto;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 /* header */
 header {
     background-color: #48c5ce;
@@ -24,6 +28,10 @@ header {
     padding: 10px;
 }
 .title {
-    text-transform: uppercase;
     font-size: 26px;
+}
+
+/* content main */
+section {
+    color: #fff;
 }
